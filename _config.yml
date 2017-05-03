@@ -70,4 +70,4 @@ theme: cactus-dark
 deploy:
   type: heroku
   repo: https://git.heroku.com/theirishninja.git
-  message: The Irish Ninja Always Drinks
+  message: Removed logo
