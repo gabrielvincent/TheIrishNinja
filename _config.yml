@@ -43,6 +43,32 @@ highlight:
   auto_detect: false
   tab_replace:
 
+search:
+  path: search.json
+  field: post
+
+# stagings:
+#   production:
+#     html_minifier:
+#       enable: true
+#       ignore_error: false
+#     css_minifier:
+#       enable: true
+#       exclude: 
+#         - '*.min.css'
+#     js_minifier:
+#       enable: true
+#       mangle: true
+#       exclude: 
+#         - '*.min.js'
+#     image_minifier:
+#       enable: true
+#       interlaced: false
+#       multipass: false
+#       optimizationLevel: 2
+#       pngquant: false
+#       progressive: false
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -70,4 +96,4 @@ theme: cactus-dark
 deploy:
   type: heroku
   repo: https://git.heroku.com/theirishninja.git
-  message: Removed logo
+  message:

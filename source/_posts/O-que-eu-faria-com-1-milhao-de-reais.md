@@ -1,10 +1,8 @@
----
 title: O que eu faria com 1 milhão de reais
 author: Gabriel Vincent
 date: 2017-05-03 21:27:08
 tags:
 ---
-
 | Custo   | Finalidade                            |
 |---------|--------------------------------------:|
 | $18.899 | MacBook Pro *SINISTRO*                |

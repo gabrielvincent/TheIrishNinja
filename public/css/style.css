@@ -1000,11 +1000,14 @@ body {
 .post-list {
   padding: 0;
 }
+.post-list #post-preview img {
+  width: 100%;
+}
 .post-list .post-item {
   list-style-type: none;
   margin-left: 0;
   margin-bottom: 1rem;
-  padding-top: 5em;
+  padding-top: 2.5em;
 }
 .post-list .post-item .post-title {
   font-size: 22px;
