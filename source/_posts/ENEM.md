@@ -1,6 +1,7 @@
 ---
 title: ENEM
 date: 2016-08-06 21:53:39
+author: Gabriel Vincent
 tags:
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;Eu preciso contar essa história. É sobre um amigo meu, Marcos. Não, talvez “amigo” seja um pouco forte para descrever minha relação com Marcos. Ele era um cara que estava na minha turma do curso pré-vestibular. Não era exatamente meu amigo. Acho que o título “conhecido” cabe melhor aqui. Enfim, Marcos fez parte da minha vida por um breve momento. Fico feliz que esse momento tenha passado.
